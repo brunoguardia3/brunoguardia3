@@ -13,7 +13,7 @@
     
 - 💻 I am open to learning new areas of programming that can provide job opportunities; currently, my goal is to become a Full Stack Developer.
 - ✔ Ask me about anything, I am happy to help<br>
-- When I'm not programming, I enjoy playing video games, watching series, or hanging out with friends.
+- 🕹 When I'm not programming, I enjoy playing video games, watching series, or hanging out with friends.
 - 📫 Reach out to me at: <a href="brunoguardia3@gmail.com">brunoguardia3@gmail.com</a>
 
 ## 🛠 &nbsp;Tech Stack
@@ -29,8 +29,8 @@
 
 #### 💻 IDEs/Editors
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 #### 🔧 Another tools and technologies
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
