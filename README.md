@@ -3,7 +3,7 @@
 <p align="center">
   I am from Buenos Aires, Argentina, and I am 24 years old.
 <p align="center">
-  I am a programming student at the National University of General Sarmiento. I am a person who constantly seeks to improve my skills and knowledge of the different programming technologies I have been learning throughout my professional training. I also strive to learn new concepts, languages, and methodologies that help me become the professional I aspire to be.
+  I am a programming student at the National University of General Sarmiento. I am a person who constantly seek to improve my skills and knowledge of the different programming technologies I have been learning throughout my professional training, and I also strive to learn new concepts, languages, and methodologies that help me become the professional I aspire to be.
 </p>
 
 - 🌱 I’m currently learning ...
