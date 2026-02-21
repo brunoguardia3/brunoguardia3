@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Bruno Alejandro Guardia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  I am from Buenos Aires, Argentina, and I am 24 years old.
+  I'm from Buenos Aires, Argentina, and I am 24 years old.
 <p align="center">
   I am a programming student at the National University of General Sarmiento. I am a person who constantly seek to improve my skills and knowledge of the different programming technologies I have been learning throughout my professional training, and I also strive to learn new concepts, languages, and methodologies that help me become the professional I aspire to be.
 </p>
