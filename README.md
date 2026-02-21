@@ -41,7 +41,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### Check out my Social Media
-<a target="_blank" href="https://www.linkedin.com/in/bruno-alejandro-guardia-aa5a40343/" style="text-decoration:none;">
+<a target="_blank" href="https://www.linkedin.com/in/brunoguardia3/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/bruno.guardia.3/" style="text-decoration:none;">
